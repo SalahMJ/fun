@@ -6,7 +6,7 @@ from colored import fg , attr
 col1 = fg('red')
 col2 = fg('green')
 reset = attr('reset')
-x = ('HAMZAH' , 'hamzah' , 'Hamzah' ,'Sarim' , 'SARIM' , 'sarim')
+x = ('HAMZAH' , 'hamzah' , 'SABA' , 'saba' , 'Saba' , 'Hamzah' ,'Sarim' , 'SARIM' , 'sarim')
 
 n=str(input('ENTER YOUR NAME:'))
 
