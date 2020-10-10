@@ -13,4 +13,4 @@ n=str(input('ENTER YOUR NAME:'))
 if n in x:
    print(col1,'BLOODY MORONNNN',reset)
 else:
-	print(col2,'SHAREEF',reset)
+   print(col2,'SHAREEF',reset)
